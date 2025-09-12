@@ -13,6 +13,10 @@
             carro2.Acelerar();
             carro2.Acelerar();
             carro2.Acelerar();
+
+            carro1.Nome = "Moaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+
+            Console.WriteLine(carro1.Nome);
         }
     }
 }
